@@ -20,4 +20,4 @@ Toute startup légalement enregistrée peut requérir sa labellisation auprès d
 
 Les normes techniques organisant le label startup et fixant les procédures de labellisation, d’évaluation, de renouvellement ou de retrait du label sont définies par la Commission et homologuées par décret.
 
-[Retour](../)
+[Retour](/Loi-Startup-au-Senegal/)
