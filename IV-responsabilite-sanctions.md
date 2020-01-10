@@ -10,3 +10,5 @@ Les procédures et modalités du retrait sont précisées par les normes techniq
 **Article 17.**-  La startup légalement enregistrée ou labélisée se trouvant dans une situation d’irrégularité au regard des dispositions de la présente loi, peut faire la demande et obtenir auprès de la Commission sa régularisation.  
 
 Les conditions et modalités de régularisation de la startup enregistrée ou labellisée sont fixées par décret. 
+
+[Retour](../)
