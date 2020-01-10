@@ -11,4 +11,4 @@ Les procédures et modalités du retrait sont précisées par les normes techniq
 
 Les conditions et modalités de régularisation de la startup enregistrée ou labellisée sont fixées par décret. 
 
-[Retour](../)
+[Retour](/Loi-Startup-au-Senegal/)
