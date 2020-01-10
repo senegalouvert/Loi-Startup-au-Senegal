@@ -62,4 +62,4 @@ Les conditions de mise en œuvre de ces mesures spécifiques d’accès à la co
 
 **Article 14.**-   La Commission, en collaboration avec toutes les parties prenantes de l’écosystème des startups, y compris les établissements de crédit au sens de la loi portant règlementation bancaire et les autorités compétentes de supervision et de contrôle, définissent et mettent en place des stratégies et mécanismes alternatifs de financement de la startup dans le respect des lois et règlements en vigueur.
 
-[Retour](../)
+[Retour](/Loi-Startup-au-Senegal/)
