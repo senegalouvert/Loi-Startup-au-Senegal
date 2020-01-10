@@ -4,4 +4,4 @@
 
 **Article 19.**-  Les modalités d’application de la présente loi sont fixées par décret.
 
-[Retour](../)
+[Retour](/Loi-Startup-au-Senegal/)
