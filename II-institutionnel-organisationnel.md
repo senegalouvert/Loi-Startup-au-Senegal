@@ -19,3 +19,5 @@ Les structures d’accompagnement publiques ou privées sont agréées par la Co
 Toute startup légalement enregistrée peut requérir sa labellisation auprès de la Commission visée à l’article 4 de la présente loi.
 
 Les normes techniques organisant le label startup et fixant les procédures de labellisation, d’évaluation, de renouvellement ou de retrait du label sont définies par la Commission et homologuées par décret.
+
+[Retour](../)
