@@ -61,3 +61,5 @@ Les modalités d’application et de suivi des avantages et mesures incitatives 
 Les conditions de mise en œuvre de ces mesures spécifiques d’accès à la commande publique sont définies par décret.
 
 **Article 14.**-   La Commission, en collaboration avec toutes les parties prenantes de l’écosystème des startups, y compris les établissements de crédit au sens de la loi portant règlementation bancaire et les autorités compétentes de supervision et de contrôle, définissent et mettent en place des stratégies et mécanismes alternatifs de financement de la startup dans le respect des lois et règlements en vigueur.
+
+[Retour](../)
