@@ -1,3 +1,4 @@
+![startup](/images/startup.png)
 ### EXPOSE DES MOTIFS
 
 Le Gouvernement du Sénégal accorde une attention particulière à la valorisation des innovations et à l’effet d’entrainement considérable qu’elle pourrait avoir sur toute l’économie nationale conformément à ses référentiels de politique et stratégie nationales de développement socioéconomique, notamment, le Plan Sénégal émergent (PSE) et la Stratégie « Sénégal numérique 2025 ».
