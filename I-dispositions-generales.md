@@ -19,3 +19,5 @@ startup qui s’enregistre auprès d’une structure d’accompagnement privée 
 
 #### startup labellisée :
 startup à laquelle l’organe compétent délivre le label visé à l’article 7 de la présente loi.
+
+[Retour](../)
