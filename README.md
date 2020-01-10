@@ -39,4 +39,4 @@ Il comprend cinq (05) chapitres :
     
 Telle est l’économie du présent projet de loi.
 
-Source : * **DER** - *[Délégation de l'entrepreneuriat rapide](http://www.adl.sn/acteur/der)*
+Source : **DER** - *[Délégation de l'entrepreneuriat rapide](https://der.sn/)*
