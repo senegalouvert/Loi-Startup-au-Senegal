@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Loi Startup au Sénégal]
+show_downloads: [true]
 github:
   zip_url: https://github.com/senegalouvert/Loi-Startup-au-Senegal/raw/master/Source/Projet%20loi%20Startup_Version%20d%C3%A9pos%C3%A9%20AN.pdf
